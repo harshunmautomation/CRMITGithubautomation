@@ -5,8 +5,9 @@
    <tag></tag>
    <UUID>b5c33fd9-a689-45b2-8e6f-b890e560b4cd</UUID>
    <createdVersion>9.3.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <projectFileLocation>C:\Users\harshu.nm_crmit\git\CRMITGithubautomation\CRMITGithubautomation.prj</projectFileLocation>
    <sourceContent>
