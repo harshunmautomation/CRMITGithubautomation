@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e26bc417-60b4-4fe2-9466-eb4ae59392e8</webElementGuid>
+      <webElementGuid>18babb82-66d4-438d-9b40-c0d81797aa0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>ltr</value>
-      <webElementGuid>29f15401-cb71-4aa5-9df0-b4bde276bb62</webElementGuid>
+      <webElementGuid>fe115eda-93ff-498c-a347-95e3f6c9308d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value> label bBody</value>
-      <webElementGuid>48fe16ef-1b8f-4a7d-b6ac-3c2f242512d8</webElementGuid>
+      <webElementGuid>cc4fa87a-d79e-4371-a6d5-917f59217635</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-aura-rendered-by</name>
       <type>Main</type>
       <value>232:0</value>
-      <webElementGuid>358cd07a-9b46-4a68-861d-6fbdad8b942c</webElementGuid>
+      <webElementGuid>d8fa4011-d6eb-42b6-a4c6-1ec6e2b03e3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>801d631d-e049-4754-b73e-da8cf9b39c5c</webElementGuid>
+      <webElementGuid>07f7affa-c9b5-46bb-804e-e9acd96cb0e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;centerPanel&quot;)/div[@class=&quot;siteforceSldsOneColLayout siteforceContentArea&quot;]/div[@class=&quot;slds-col--padded contentRegion comm-layout-column&quot;]/div[1]/div[@class=&quot;ui-widget&quot;]/div[@class=&quot;salesforceIdentityLoginForm2&quot;]/div[3]/button[@class=&quot;slds-button slds-button--brand loginButton uiButton--none uiButton&quot;]/span[@class=&quot;label bBody&quot;]</value>
-      <webElementGuid>7c72ba92-b4b2-4f9b-93de-a1457510826d</webElementGuid>
+      <webElementGuid>de4b3e57-a394-4dcd-9fc1-3cbf38666f77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='centerPanel']/div/div[2]/div/div[3]/div/div[3]/button/span</value>
-      <webElementGuid>a7fd499b-bf9d-47d3-ba92-67ff75612a7e</webElementGuid>
+      <webElementGuid>7f291d24-0bf1-4886-b5a5-08be09cd782a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
-      <webElementGuid>f61def85-5352-4238-ba8b-a80bd126952b</webElementGuid>
+      <webElementGuid>f7eae14d-caf5-440e-815d-dc9b1768b155</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::span[3]</value>
-      <webElementGuid>1914da10-8606-4dff-ba66-24d2de0ab806</webElementGuid>
+      <webElementGuid>e8e9a2d4-30eb-4d7d-9bb6-39bf9099c900</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::span[1]</value>
-      <webElementGuid>53a2e10c-124d-4c4e-9091-d7cdb0f2404d</webElementGuid>
+      <webElementGuid>6ad06434-519f-4720-ab3a-155386ae6641</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::span[2]</value>
-      <webElementGuid>db98cbb8-2815-4245-a6f4-6a80f2cf6dea</webElementGuid>
+      <webElementGuid>091de4ac-1859-4ccb-8214-b3a594dd1934</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Log in']/parent::*</value>
-      <webElementGuid>dc1ffa83-a417-4060-9a4c-787790152462</webElementGuid>
+      <webElementGuid>c372e279-04b5-4d1d-a98b-167ecc510779</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span</value>
-      <webElementGuid>fc187f72-9758-48b5-b4f9-f322a68f48cc</webElementGuid>
+      <webElementGuid>6892d790-fffd-4b61-88e7-d21a653e1ed5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Log in' or . = 'Log in')]</value>
-      <webElementGuid>aa2daece-1048-4765-a314-ee682c942746</webElementGuid>
+      <webElementGuid>7a0b6d7f-4e12-4908-b503-a628bd6a680d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
