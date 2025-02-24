@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 130.0.6723.117,,,24-02-2025 17:20:22,24-02-2025 17:21:56,1m - 34.436s,PASSED
+,,,,,,,
+Test Cases/AvishkaarLoginTest,Chrome 130.0.6723.117,,,24-02-2025 17:20:23,24-02-2025 17:21:56,1m - 33.636s,PASSED
+"openBrowser("""")",Chrome 130.0.6723.117,,,24-02-2025 17:20:23,24-02-2025 17:21:40,1m - 16.730s,PASSED
+"navigateToUrl(""https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/login/?ec=302&startURL=%2FCRMITCommunity%2Fs%2F"")",Chrome 130.0.6723.117,,,24-02-2025 17:21:40,24-02-2025 17:21:53,12.314s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Username""), ""chaithra.kn@crmit.com.testingcoe"")",Chrome 130.0.6723.117,,,24-02-2025 17:21:53,24-02-2025 17:21:55,2.100s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Password""), ""piejv3zadpzMr7oo80bnSA=="")",Chrome 130.0.6723.117,,,24-02-2025 17:21:55,24-02-2025 17:21:56,0.916s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/span_Log in""))",Chrome 130.0.6723.117,,,24-02-2025 17:21:56,24-02-2025 17:21:56,0.693s,PASSED

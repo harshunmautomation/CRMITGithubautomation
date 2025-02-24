@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="94.436" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="1" failures="0" errors="0" time="94.436" skipped="0" timestamp="24-02-2025T17:20:22" hostname="harshu.nm_crmit - SLTB178" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\harshu.nm_crmit\\git\\Branch1\\CRMITGithubautomation\\Reports\\20250224_171943\\New Test Suite\\20250224_171943"/>
+         <property name="logFiles" value="C:\\Users\\harshu.nm_crmit\\git\\Branch1\\CRMITGithubautomation\\Reports\\20250224_171943\\New Test Suite\\20250224_171943\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="harshu.nm_crmit - SLTB178"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Chrome 130.0.6723.117"/>
+         <property name="hostAddress" value="192.168.1.110"/>
+         <property name="sessionId" value="df613eaa9e3af2b8b4fe8d92abaa5fbe"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/AvishkaarLoginTest" time="93.636" classname="Test Cases/AvishkaarLoginTest" status="PASSED">
+         <system-out><![CDATA[24-02-2025T17:20:23 - [TEST_CASE][PASSED] - Test Cases/AvishkaarLoginTest: Test Cases/AvishkaarLoginTest
+
+24-02-2025T17:20:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+24-02-2025T17:20:25 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+24-02-2025T17:20:25 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+24-02-2025T17:21:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+24-02-2025T17:21:40 - [TEST_STEP][PASSED] - navigateToUrl("https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/login/?ec=302&startURL=%2FCRMITCommunity%2Fs%2F"): Navigate to 'https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/login/?ec=302&startURL=%2FCRMITCommunity%2Fs%2F' successfully
+
+24-02-2025T17:21:53 - [MESSAGE][PASSED] - Navigate to 'https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/login/?ec=302&startURL=%2FCRMITCommunity%2Fs%2F' successfully
+
+24-02-2025T17:21:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Login/input_Username"), "chaithra.kn@crmit.com.testingcoe"): Text 'chaithra.kn@crmit.com.testingcoe' is set on object 'Object Repository/Page_Login/input_Username'
+
+24-02-2025T17:21:55 - [MESSAGE][PASSED] - Text 'chaithra.kn@crmit.com.testingcoe' is set on object 'Object Repository/Page_Login/input_Username'
+
+24-02-2025T17:21:55 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Login/input_Password"), "piejv3zadpzMr7oo80bnSA=="): Text ****** has been set on object 'Object Repository/Page_Login/input_Password'
+
+24-02-2025T17:21:56 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Login/input_Password'
+
+24-02-2025T17:21:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Login/span_Log in")): Object: 'Object Repository/Page_Login/span_Log in' is clicked on
+
+24-02-2025T17:21:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/span_Log in' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[24-02-2025T17:20:22 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/AvishkaarLoginTest]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

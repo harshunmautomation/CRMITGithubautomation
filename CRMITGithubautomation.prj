@@ -5,11 +5,12 @@
    <tag></tag>
    <UUID>b5c33fd9-a689-45b2-8e6f-b890e560b4cd</UUID>
    <createdVersion>9.3.1</createdVersion>
-   <freeLicense>true</freeLicense>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedVersion>9.3.1</modifiedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>10.1.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\harshu.nm_crmit\git\CRMITGithubautomation\CRMITGithubautomation.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\harshu.nm_crmit\git\Branch1\CRMITGithubautomation\CRMITGithubautomation.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
