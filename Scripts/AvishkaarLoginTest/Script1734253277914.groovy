@@ -21,10 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sftd1--testingcoe.sandbox.my.site.com/CRMITCommunity/s/login/?ec=302&startURL=%2FCRMITCommunity%2Fs%2F')
 
-WebUI.setText(findTestObject('Object Repository/Page_Login/input_Username'), 'chaithra.kn@crmit.com.testingcoe')
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Username'), 'chaithra.kn@crmit.com.testingcoe1')
+
+WebUI.takeScreenshotAsCheckpoint('sftd', [])
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Password'), 'piejv3zadpzMr7oo80bnSA==')
 
 WebUI.click(findTestObject('Object Repository/Page_Login/span_Log in'))
 
-//WebUI.closeBrowser();
